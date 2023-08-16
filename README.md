@@ -31,12 +31,12 @@
   ![OnRender](https://img.shields.io/badge/-OnRender-blue?style=flat-square&logo=onrender)
   
 💡 What I Bring:
-  🤝 Collaborative team player with [Coding Bootcamp Name] experience, ready to contribute and learn from the tech community.
-  🧠 Quick learner with a patient attitude, embracing every opportunity to innovate and refine my skills.
+  - 🤝 Collaborative team player with [Coding Bootcamp Name] experience, ready to contribute and learn from the tech community.
+  - 🧠 Quick learner with a patient attitude, embracing every opportunity to innovate and refine my skills.
 
 🔭 Explore with Me:
-  🌐 Dive into my repositories to discover my coding journey and innovative projects.
-  📝 I love sharing insights through technical blogs and exploring the latest trends in software engineering.
+- 🌐 Dive into my repositories to discover my coding journey and innovative projects.
+- 📝 I love sharing insights through technical blogs and exploring the latest trends in software engineering.
 
 Let's connect and build something incredible together! Feel free to reach out and explore the exciting world of software engineering with me.
 
