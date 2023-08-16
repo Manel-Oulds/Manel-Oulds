@@ -7,9 +7,9 @@
 🌟 Welcome to my GitHub world! I'm all about crafting elegant solutions and bringing creative ideas to life through code.
 
 🚀 My Journey:
-  🎓 Recent software engineering graduate with a penchant for coding and a love for turning abstract concepts into tangible reality.
-  ⚙️ Skilled in JavaScript and React, I thrive on unraveling complex challenges and crafting solid architectures.
-  🛠️ Experienced in a wide range of technologies, including:
+- 🎓 Recent software engineering graduate with a penchant for coding and a love for turning abstract concepts into tangible reality.
+- ⚙️ Skilled in JavaScript and React, I thrive on unraveling complex challenges and crafting solid architectures.
+- 🛠️ Experienced in a wide range of technologies, including:
 
   ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
@@ -31,8 +31,8 @@
   ![OnRender](https://img.shields.io/badge/-OnRender-blue?style=flat-square&logo=onrender)
   
 💡 What I Bring:
-  - 🤝 Collaborative team player with [Coding Bootcamp Name] experience, ready to contribute and learn from the tech community.
-  - 🧠 Quick learner with a patient attitude, embracing every opportunity to innovate and refine my skills.
+- 🤝 Collaborative team player with [Coding Bootcamp Name] experience, ready to contribute and learn from the tech community.
+- 🧠 Quick learner with a patient attitude, embracing every opportunity to innovate and refine my skills.
 
 🔭 Explore with Me:
 - 🌐 Dive into my repositories to discover my coding journey and innovative projects.
@@ -41,7 +41,7 @@
 Let's connect and build something incredible together! Feel free to reach out and explore the exciting world of software engineering with me.
 
 📫 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/manel-ould-saada/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)]([https://yourportfolio.com](https://manel-oulds.github.io/)https://manel-oulds.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/manel-ould-saada/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)]([https://manel-oulds.github.io/])
 
 </div>
