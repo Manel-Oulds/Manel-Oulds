@@ -41,7 +41,7 @@
 Let's connect and build something incredible together! Feel free to reach out and explore the exciting world of software engineering with me.
 
 📫 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/manel-ould-saada/])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)]([https://manel-oulds.github.io/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manel-ould-saada/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://manel-oulds.github.io/)
 
 </div>
