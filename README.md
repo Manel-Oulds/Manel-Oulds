@@ -38,10 +38,15 @@
 - 🌐 Dive into my repositories to discover my coding journey and innovative projects.
 - 📝 I love sharing insights through technical blogs and exploring the latest trends in software engineering.
 
+
 Let's connect and build something incredible together! Feel free to reach out and explore the exciting world of software engineering with me.
 
 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manel-ould-saada/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://manel-oulds.github.io/)
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manel-oulds&show_icons=true&locale=en&layout=compact" alt="manel-oulds" /></p>
+
 
 </div>
