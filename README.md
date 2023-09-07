@@ -31,7 +31,7 @@
   ![OnRender](https://img.shields.io/badge/-OnRender-blue?style=flat-square&logo=onrender)
   
 💡 What I Bring:
-- 🤝 Collaborative team player with [Coding Bootcamp Name] experience, ready to contribute and learn from the tech community.
+- 🤝 Collaborative team player with App academy experience, ready to contribute and learn from the tech community.
 - 🧠 Quick learner with a patient attitude, embracing every opportunity to innovate and refine my skills.
 
 🔭 Explore with Me:
